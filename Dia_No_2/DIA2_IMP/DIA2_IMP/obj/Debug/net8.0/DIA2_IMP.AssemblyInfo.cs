@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DIA2_IMP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c94d4c7a74006cc1a0021ab6b37f6a352280d978")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34748350a067e2167d664a50c4949d86b1cb6bd0")]
 [assembly: System.Reflection.AssemblyProductAttribute("DIA2_IMP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DIA2_IMP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
