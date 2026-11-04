@@ -1,0 +1,7 @@
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia - 6 Objetos\Propiedades\Propiedades\bin\Debug\Propiedades.exe.config
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia - 6 Objetos\Propiedades\Propiedades\bin\Debug\Propiedades.exe
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia - 6 Objetos\Propiedades\Propiedades\bin\Debug\Propiedades.pdb
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia - 6 Objetos\Propiedades\Propiedades\obj\Debug\Propiedades.csproj.AssemblyReference.cache
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia - 6 Objetos\Propiedades\Propiedades\obj\Debug\Propiedades.csproj.CoreCompileInputs.cache
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia - 6 Objetos\Propiedades\Propiedades\obj\Debug\Propiedades.exe
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia - 6 Objetos\Propiedades\Propiedades\obj\Debug\Propiedades.pdb

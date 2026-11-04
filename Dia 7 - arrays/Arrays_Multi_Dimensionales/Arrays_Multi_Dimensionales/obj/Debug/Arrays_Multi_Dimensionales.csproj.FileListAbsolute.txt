@@ -1,0 +1,7 @@
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia 7 - arrays\Arrays_Multi_Dimensionales\Arrays_Multi_Dimensionales\bin\Debug\Arrays_Multi_Dimensionales.exe.config
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia 7 - arrays\Arrays_Multi_Dimensionales\Arrays_Multi_Dimensionales\bin\Debug\Arrays_Multi_Dimensionales.exe
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia 7 - arrays\Arrays_Multi_Dimensionales\Arrays_Multi_Dimensionales\bin\Debug\Arrays_Multi_Dimensionales.pdb
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia 7 - arrays\Arrays_Multi_Dimensionales\Arrays_Multi_Dimensionales\obj\Debug\Arrays_Multi_Dimensionales.csproj.AssemblyReference.cache
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia 7 - arrays\Arrays_Multi_Dimensionales\Arrays_Multi_Dimensionales\obj\Debug\Arrays_Multi_Dimensionales.csproj.CoreCompileInputs.cache
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia 7 - arrays\Arrays_Multi_Dimensionales\Arrays_Multi_Dimensionales\obj\Debug\Arrays_Multi_Dimensionales.exe
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia 7 - arrays\Arrays_Multi_Dimensionales\Arrays_Multi_Dimensionales\obj\Debug\Arrays_Multi_Dimensionales.pdb

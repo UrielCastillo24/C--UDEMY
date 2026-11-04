@@ -1,0 +1,7 @@
+C:\Users\Admin\dereck-uriel\CURSOS\C#-UDEMY\C#-UDEMY\Dia 8\ArraysComoParametros\ArraysComoParametros\bin\Debug\ArraysComoParametros.exe.config
+C:\Users\Admin\dereck-uriel\CURSOS\C#-UDEMY\C#-UDEMY\Dia 8\ArraysComoParametros\ArraysComoParametros\bin\Debug\ArraysComoParametros.exe
+C:\Users\Admin\dereck-uriel\CURSOS\C#-UDEMY\C#-UDEMY\Dia 8\ArraysComoParametros\ArraysComoParametros\bin\Debug\ArraysComoParametros.pdb
+C:\Users\Admin\dereck-uriel\CURSOS\C#-UDEMY\C#-UDEMY\Dia 8\ArraysComoParametros\ArraysComoParametros\obj\Debug\ArraysComoParametros.csproj.AssemblyReference.cache
+C:\Users\Admin\dereck-uriel\CURSOS\C#-UDEMY\C#-UDEMY\Dia 8\ArraysComoParametros\ArraysComoParametros\obj\Debug\ArraysComoParametros.csproj.CoreCompileInputs.cache
+C:\Users\Admin\dereck-uriel\CURSOS\C#-UDEMY\C#-UDEMY\Dia 8\ArraysComoParametros\ArraysComoParametros\obj\Debug\ArraysComoParametros.exe
+C:\Users\Admin\dereck-uriel\CURSOS\C#-UDEMY\C#-UDEMY\Dia 8\ArraysComoParametros\ArraysComoParametros\obj\Debug\ArraysComoParametros.pdb

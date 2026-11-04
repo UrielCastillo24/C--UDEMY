@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\CURSOS\\C#-UDEMY\\C#-UDEMY\\Dia 7 - arrays\\Loop_Foreach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13A1297D-66BA-49DC-86A3-6A5268E6CF96}|Loop_Foreach\\Loop_Foreach.csproj|a:\\cursos\\c#-udemy\\c#-udemy\\dia 7 - arrays\\loop_foreach\\loop_foreach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A1297D-66BA-49DC-86A3-6A5268E6CF96}|Loop_Foreach\\Loop_Foreach.csproj|solutionrelative:loop_foreach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\CURSOS\\C#-UDEMY\\C#-UDEMY\\Dia 7 - arrays\\Loop_Foreach\\Loop_Foreach\\Program.cs",
+              "RelativeDocumentMoniker": "Loop_Foreach\\Program.cs",
+              "ToolTip": "A:\\CURSOS\\C#-UDEMY\\C#-UDEMY\\Dia 7 - arrays\\Loop_Foreach\\Loop_Foreach\\Program.cs",
+              "RelativeToolTip": "Loop_Foreach\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T02:45:37.117Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
