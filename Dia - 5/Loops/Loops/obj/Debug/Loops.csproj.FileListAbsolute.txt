@@ -1,0 +1,7 @@
+a:\CURSOS\C#-UDEMY\C#-UDEMY\Dia - 5\Loops\Loops\bin\Debug\Loops.exe.config
+a:\CURSOS\C#-UDEMY\C#-UDEMY\Dia - 5\Loops\Loops\bin\Debug\Loops.exe
+a:\CURSOS\C#-UDEMY\C#-UDEMY\Dia - 5\Loops\Loops\bin\Debug\Loops.pdb
+a:\CURSOS\C#-UDEMY\C#-UDEMY\Dia - 5\Loops\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+a:\CURSOS\C#-UDEMY\C#-UDEMY\Dia - 5\Loops\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+a:\CURSOS\C#-UDEMY\C#-UDEMY\Dia - 5\Loops\Loops\obj\Debug\Loops.exe
+a:\CURSOS\C#-UDEMY\C#-UDEMY\Dia - 5\Loops\Loops\obj\Debug\Loops.pdb

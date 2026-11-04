@@ -1,0 +1,7 @@
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia - 5\Desafio\Desafio\bin\Debug\Desafio.exe.config
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia - 5\Desafio\Desafio\bin\Debug\Desafio.exe
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia - 5\Desafio\Desafio\bin\Debug\Desafio.pdb
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia - 5\Desafio\Desafio\obj\Debug\Desafio.csproj.AssemblyReference.cache
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia - 5\Desafio\Desafio\obj\Debug\Desafio.csproj.CoreCompileInputs.cache
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia - 5\Desafio\Desafio\obj\Debug\Desafio.exe
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia - 5\Desafio\Desafio\obj\Debug\Desafio.pdb

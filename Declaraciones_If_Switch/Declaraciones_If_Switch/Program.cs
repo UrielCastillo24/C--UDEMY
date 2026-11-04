@@ -16,17 +16,17 @@ namespace Declaraciones_If_Switch
             
             int temperatura = Int32.Parse(input);   //convertir el string ingresado a entero           
 
-            if (temperatura < 10)
+            if (temperatura < 5)
             {
-                Console.WriteLine("La temperatura es {0}, es menor a 10", temperatura);
+                Console.WriteLine("La temperatura es {0}, es menor a 5", temperatura);
             }
-            else if(temperatura == 10)
+            else if(temperatura == 5)
             {
-                Console.WriteLine("Hay 10 grados de temperatura");
+                Console.WriteLine("Hay 5 grados de temperatura");
             }
-            else if (temperatura > 10)
+            else if (temperatura > 5)
             {
-                Console.WriteLine("La temperatura es {0}, es mayor a 10", temperatura);
+                Console.WriteLine("La temperatura es {0}, es mayor a 5", temperatura);
             }
 
             

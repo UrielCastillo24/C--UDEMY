@@ -1,0 +1,7 @@
+C:\Users\Admin\dereck-uriel\CURSOS\C#-UDEMY\C#-UDEMY\Dia 8\Listas\Listas\bin\Debug\Listas.exe.config
+C:\Users\Admin\dereck-uriel\CURSOS\C#-UDEMY\C#-UDEMY\Dia 8\Listas\Listas\bin\Debug\Listas.exe
+C:\Users\Admin\dereck-uriel\CURSOS\C#-UDEMY\C#-UDEMY\Dia 8\Listas\Listas\bin\Debug\Listas.pdb
+C:\Users\Admin\dereck-uriel\CURSOS\C#-UDEMY\C#-UDEMY\Dia 8\Listas\Listas\obj\Debug\Listas.csproj.AssemblyReference.cache
+C:\Users\Admin\dereck-uriel\CURSOS\C#-UDEMY\C#-UDEMY\Dia 8\Listas\Listas\obj\Debug\Listas.csproj.CoreCompileInputs.cache
+C:\Users\Admin\dereck-uriel\CURSOS\C#-UDEMY\C#-UDEMY\Dia 8\Listas\Listas\obj\Debug\Listas.exe
+C:\Users\Admin\dereck-uriel\CURSOS\C#-UDEMY\C#-UDEMY\Dia 8\Listas\Listas\obj\Debug\Listas.pdb

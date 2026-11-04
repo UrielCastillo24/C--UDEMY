@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\CURSOS\\C#-UDEMY\\C#-UDEMY\\Dia - 6 Objetos\\Finalizador-Destructor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC1249E-F55B-4E9E-A2DF-BD37B5BEB04B}|Finalizador-Destructor\\Finalizador-Destructor.csproj|a:\\cursos\\c#-udemy\\c#-udemy\\dia - 6 objetos\\finalizador-destructor\\finalizador-destructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC1249E-F55B-4E9E-A2DF-BD37B5BEB04B}|Finalizador-Destructor\\Finalizador-Destructor.csproj|solutionrelative:finalizador-destructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC1249E-F55B-4E9E-A2DF-BD37B5BEB04B}|Finalizador-Destructor\\Finalizador-Destructor.csproj|a:\\cursos\\c#-udemy\\c#-udemy\\dia - 6 objetos\\finalizador-destructor\\finalizador-destructor\\miembro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC1249E-F55B-4E9E-A2DF-BD37B5BEB04B}|Finalizador-Destructor\\Finalizador-Destructor.csproj|solutionrelative:finalizador-destructor\\miembro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Miembro.cs",
+              "DocumentMoniker": "A:\\CURSOS\\C#-UDEMY\\C#-UDEMY\\Dia - 6 Objetos\\Finalizador-Destructor\\Finalizador-Destructor\\Miembro.cs",
+              "RelativeDocumentMoniker": "Finalizador-Destructor\\Miembro.cs",
+              "ToolTip": "A:\\CURSOS\\C#-UDEMY\\C#-UDEMY\\Dia - 6 Objetos\\Finalizador-Destructor\\Finalizador-Destructor\\Miembro.cs",
+              "RelativeToolTip": "Finalizador-Destructor\\Miembro.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAIwEYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T02:20:35.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\CURSOS\\C#-UDEMY\\C#-UDEMY\\Dia - 6 Objetos\\Finalizador-Destructor\\Finalizador-Destructor\\Program.cs",
+              "RelativeDocumentMoniker": "Finalizador-Destructor\\Program.cs",
+              "ToolTip": "A:\\CURSOS\\C#-UDEMY\\C#-UDEMY\\Dia - 6 Objetos\\Finalizador-Destructor\\Finalizador-Destructor\\Program.cs",
+              "RelativeToolTip": "Finalizador-Destructor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T01:27:26.975Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\CURSOS\\C#-UDEMY\\C#-UDEMY\\Dia - 5\\Loops\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92C36FD9-121A-4FE9-9C6C-1C1A87ED2ECF}|Loops\\Loops.csproj|a:\\cursos\\c#-udemy\\c#-udemy\\dia - 5\\loops\\loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C36FD9-121A-4FE9-9C6C-1C1A87ED2ECF}|Loops\\Loops.csproj|solutionrelative:loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\CURSOS\\C#-UDEMY\\C#-UDEMY\\Dia - 5\\Loops\\Loops\\Program.cs",
+              "RelativeDocumentMoniker": "Loops\\Program.cs",
+              "ToolTip": "A:\\CURSOS\\C#-UDEMY\\C#-UDEMY\\Dia - 5\\Loops\\Loops\\Program.cs",
+              "RelativeToolTip": "Loops\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwCUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T01:53:59.653Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia_4\Switch\Switch\bin\Debug\Switch.exe.config
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia_4\Switch\Switch\bin\Debug\Switch.exe
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia_4\Switch\Switch\bin\Debug\Switch.pdb
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia_4\Switch\Switch\obj\Debug\Switch.csproj.AssemblyReference.cache
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia_4\Switch\Switch\obj\Debug\Switch.csproj.CoreCompileInputs.cache
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia_4\Switch\Switch\obj\Debug\Switch.exe
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia_4\Switch\Switch\obj\Debug\Switch.pdb

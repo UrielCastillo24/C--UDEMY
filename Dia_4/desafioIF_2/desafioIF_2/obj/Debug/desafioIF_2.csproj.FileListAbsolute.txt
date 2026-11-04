@@ -1,0 +1,7 @@
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia_4\desafioIF_2\desafioIF_2\bin\Debug\desafioIF_2.exe.config
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia_4\desafioIF_2\desafioIF_2\bin\Debug\desafioIF_2.exe
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia_4\desafioIF_2\desafioIF_2\bin\Debug\desafioIF_2.pdb
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia_4\desafioIF_2\desafioIF_2\obj\Debug\desafioIF_2.csproj.AssemblyReference.cache
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia_4\desafioIF_2\desafioIF_2\obj\Debug\desafioIF_2.csproj.CoreCompileInputs.cache
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia_4\desafioIF_2\desafioIF_2\obj\Debug\desafioIF_2.exe
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia_4\desafioIF_2\desafioIF_2\obj\Debug\desafioIF_2.pdb

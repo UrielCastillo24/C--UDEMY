@@ -1,0 +1,7 @@
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia - 6 Objetos\Finalizador-Destructor\Finalizador-Destructor\bin\Debug\Finalizador-Destructor.exe.config
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia - 6 Objetos\Finalizador-Destructor\Finalizador-Destructor\bin\Debug\Finalizador-Destructor.exe
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia - 6 Objetos\Finalizador-Destructor\Finalizador-Destructor\bin\Debug\Finalizador-Destructor.pdb
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia - 6 Objetos\Finalizador-Destructor\Finalizador-Destructor\obj\Debug\Finalizador-Destructor.csproj.AssemblyReference.cache
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia - 6 Objetos\Finalizador-Destructor\Finalizador-Destructor\obj\Debug\Finalizador-Destructor.csproj.CoreCompileInputs.cache
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia - 6 Objetos\Finalizador-Destructor\Finalizador-Destructor\obj\Debug\Finalizador-Destructor.exe
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia - 6 Objetos\Finalizador-Destructor\Finalizador-Destructor\obj\Debug\Finalizador-Destructor.pdb

@@ -1,0 +1,7 @@
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia_4\desafioIfMejorado\desafioIfMejorado\bin\Debug\desafioIfMejorado.exe.config
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia_4\desafioIfMejorado\desafioIfMejorado\bin\Debug\desafioIfMejorado.exe
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia_4\desafioIfMejorado\desafioIfMejorado\bin\Debug\desafioIfMejorado.pdb
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia_4\desafioIfMejorado\desafioIfMejorado\obj\Debug\desafioIfMejorado.csproj.AssemblyReference.cache
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia_4\desafioIfMejorado\desafioIfMejorado\obj\Debug\desafioIfMejorado.csproj.CoreCompileInputs.cache
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia_4\desafioIfMejorado\desafioIfMejorado\obj\Debug\desafioIfMejorado.exe
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia_4\desafioIfMejorado\desafioIfMejorado\obj\Debug\desafioIfMejorado.pdb

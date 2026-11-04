@@ -1,0 +1,7 @@
+C:\Users\Admin\dereck-uriel\CURSOS\C#-UDEMY\C#-UDEMY\Dia 8\ArraysIrregulares\ArraysIrregulares\obj\Debug\ArraysIrregulares.csproj.AssemblyReference.cache
+C:\Users\Admin\dereck-uriel\CURSOS\C#-UDEMY\C#-UDEMY\Dia 8\ArraysIrregulares\ArraysIrregulares\obj\Debug\ArraysIrregulares.csproj.CoreCompileInputs.cache
+C:\Users\Admin\dereck-uriel\CURSOS\C#-UDEMY\C#-UDEMY\Dia 8\ArraysIrregulares\ArraysIrregulares\bin\Debug\ArraysIrregulares.exe.config
+C:\Users\Admin\dereck-uriel\CURSOS\C#-UDEMY\C#-UDEMY\Dia 8\ArraysIrregulares\ArraysIrregulares\bin\Debug\ArraysIrregulares.exe
+C:\Users\Admin\dereck-uriel\CURSOS\C#-UDEMY\C#-UDEMY\Dia 8\ArraysIrregulares\ArraysIrregulares\bin\Debug\ArraysIrregulares.pdb
+C:\Users\Admin\dereck-uriel\CURSOS\C#-UDEMY\C#-UDEMY\Dia 8\ArraysIrregulares\ArraysIrregulares\obj\Debug\ArraysIrregulares.exe
+C:\Users\Admin\dereck-uriel\CURSOS\C#-UDEMY\C#-UDEMY\Dia 8\ArraysIrregulares\ArraysIrregulares\obj\Debug\ArraysIrregulares.pdb

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\dereck-uriel\\CURSOS\\C#-UDEMY\\C#-UDEMY\\Dia 8\\ArrayList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE4AE4-094A-4968-B589-5B422D1A77A6}|ArrayList\\ArrayList.csproj|c:\\users\\admin\\dereck-uriel\\cursos\\c#-udemy\\c#-udemy\\dia 8\\arraylist\\arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EDE4AE4-094A-4968-B589-5B422D1A77A6}|ArrayList\\ArrayList.csproj|solutionrelative:arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\dereck-uriel\\CURSOS\\C#-UDEMY\\C#-UDEMY\\Dia 8\\ArrayList\\ArrayList\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayList\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\dereck-uriel\\CURSOS\\C#-UDEMY\\C#-UDEMY\\Dia 8\\ArrayList\\ArrayList\\Program.cs",
+              "RelativeToolTip": "ArrayList\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAQwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T00:59:59.637Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

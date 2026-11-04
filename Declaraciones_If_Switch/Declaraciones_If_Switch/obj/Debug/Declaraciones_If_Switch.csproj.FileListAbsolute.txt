@@ -5,3 +5,5 @@ A:\CURSOS\C#\Declaraciones_If_Switch\Declaraciones_If_Switch\obj\Debug\Declaraci
 A:\CURSOS\C#\Declaraciones_If_Switch\Declaraciones_If_Switch\obj\Debug\Declaraciones_If_Switch.csproj.CoreCompileInputs.cache
 A:\CURSOS\C#\Declaraciones_If_Switch\Declaraciones_If_Switch\obj\Debug\Declaraciones_If_Switch.exe
 A:\CURSOS\C#\Declaraciones_If_Switch\Declaraciones_If_Switch\obj\Debug\Declaraciones_If_Switch.pdb
+C:\Users\Admin\dereck-uriel\CURSOS\C#-UDEMY\C#-UDEMY\Declaraciones_If_Switch\Declaraciones_If_Switch\obj\Debug\Declaraciones_If_Switch.exe
+C:\Users\Admin\dereck-uriel\CURSOS\C#-UDEMY\C#-UDEMY\Declaraciones_If_Switch\Declaraciones_If_Switch\obj\Debug\Declaraciones_If_Switch.pdb

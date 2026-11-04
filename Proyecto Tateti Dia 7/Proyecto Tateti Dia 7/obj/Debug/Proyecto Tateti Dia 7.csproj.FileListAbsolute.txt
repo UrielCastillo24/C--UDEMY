@@ -1,0 +1,7 @@
+C:\Users\Admin\dereck-uriel\CURSOS\C#-UDEMY\C#-UDEMY\Proyecto Tateti Dia 7\Proyecto Tateti Dia 7\bin\Debug\Proyecto Tateti Dia 7.exe.config
+C:\Users\Admin\dereck-uriel\CURSOS\C#-UDEMY\C#-UDEMY\Proyecto Tateti Dia 7\Proyecto Tateti Dia 7\bin\Debug\Proyecto Tateti Dia 7.exe
+C:\Users\Admin\dereck-uriel\CURSOS\C#-UDEMY\C#-UDEMY\Proyecto Tateti Dia 7\Proyecto Tateti Dia 7\bin\Debug\Proyecto Tateti Dia 7.pdb
+C:\Users\Admin\dereck-uriel\CURSOS\C#-UDEMY\C#-UDEMY\Proyecto Tateti Dia 7\Proyecto Tateti Dia 7\obj\Debug\Proyecto Tateti Dia 7.csproj.AssemblyReference.cache
+C:\Users\Admin\dereck-uriel\CURSOS\C#-UDEMY\C#-UDEMY\Proyecto Tateti Dia 7\Proyecto Tateti Dia 7\obj\Debug\Proyecto Tateti Dia 7.csproj.CoreCompileInputs.cache
+C:\Users\Admin\dereck-uriel\CURSOS\C#-UDEMY\C#-UDEMY\Proyecto Tateti Dia 7\Proyecto Tateti Dia 7\obj\Debug\Proyecto Tateti Dia 7.exe
+C:\Users\Admin\dereck-uriel\CURSOS\C#-UDEMY\C#-UDEMY\Proyecto Tateti Dia 7\Proyecto Tateti Dia 7\obj\Debug\Proyecto Tateti Dia 7.pdb

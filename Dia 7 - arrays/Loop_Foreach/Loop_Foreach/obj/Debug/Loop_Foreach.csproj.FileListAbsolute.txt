@@ -1,0 +1,7 @@
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia 7 - arrays\Loop_Foreach\Loop_Foreach\bin\Debug\Loop_Foreach.exe.config
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia 7 - arrays\Loop_Foreach\Loop_Foreach\bin\Debug\Loop_Foreach.exe
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia 7 - arrays\Loop_Foreach\Loop_Foreach\bin\Debug\Loop_Foreach.pdb
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia 7 - arrays\Loop_Foreach\Loop_Foreach\obj\Debug\Loop_Foreach.csproj.AssemblyReference.cache
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia 7 - arrays\Loop_Foreach\Loop_Foreach\obj\Debug\Loop_Foreach.csproj.CoreCompileInputs.cache
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia 7 - arrays\Loop_Foreach\Loop_Foreach\obj\Debug\Loop_Foreach.exe
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia 7 - arrays\Loop_Foreach\Loop_Foreach\obj\Debug\Loop_Foreach.pdb

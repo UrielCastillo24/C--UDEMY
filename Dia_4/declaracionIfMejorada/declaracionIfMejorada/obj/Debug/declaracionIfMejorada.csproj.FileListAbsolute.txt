@@ -1,0 +1,7 @@
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia_4\declaracionIfMejorada\declaracionIfMejorada\bin\Debug\declaracionIfMejorada.exe.config
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia_4\declaracionIfMejorada\declaracionIfMejorada\bin\Debug\declaracionIfMejorada.exe
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia_4\declaracionIfMejorada\declaracionIfMejorada\bin\Debug\declaracionIfMejorada.pdb
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia_4\declaracionIfMejorada\declaracionIfMejorada\obj\Debug\declaracionIfMejorada.csproj.AssemblyReference.cache
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia_4\declaracionIfMejorada\declaracionIfMejorada\obj\Debug\declaracionIfMejorada.csproj.CoreCompileInputs.cache
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia_4\declaracionIfMejorada\declaracionIfMejorada\obj\Debug\declaracionIfMejorada.exe
+A:\CURSOS\C#-UDEMY\C#-UDEMY\Dia_4\declaracionIfMejorada\declaracionIfMejorada\obj\Debug\declaracionIfMejorada.pdb
